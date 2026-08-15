@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频转知识笔记"
+  short_description: "把视频整理成带原声短视频、视频下方讲解文字与截图结合的长期学习笔记"
+  default_prompt: "使用 $video-to-knowledge-notes 把我提供的视频整理成完整学习笔记：静态媒体先分类，可无损重绘的板书、手绘关系图和简单 PPT 图解默认重制为清晰的 SVG/PPT 式图解；以有效鼠标与完整 UI 规划稳定构图，连续裁剪换位使用短促缓入缓出运镜，不硬切、不混帧，并保留原声与对应讲解文字。"

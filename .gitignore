@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+.cache/
+
+# 本地视频处理与转写产物
+work/
+.work/
+logs/
+audio/
+chunks/
+progress.json
+transcript*.txt
+transcript*.json
+*.log
+*.wav
+*.mp4
+*.mkv
+*.mov
+
+# 模型、缓存与临时归档
+*.bin
+*.onnx
+*.zip
+*.tmp
+*.bak
+*备份*
